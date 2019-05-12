@@ -1,0 +1,57 @@
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[DebugChecksum]
+Checksum=515139670
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=1
+Leave target running=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Aliases]
+A0=_ "E:\SZ2530\3.基础实验\12.AD采集cc2530温度串口显示\ADC\UartTimer.h" ""
+A1=_ "E:\SZ2530\3.基础实验\12.AD采集cc2530温度串口显示\ADC\main.c" ""
+A2=_ "F:\项目\cc254x蓝牙-创思通信部分\cc254x蓝牙-创思通信\2.初级实验\7.AD采集cc254x温度串口显示\ADC\UartTimer.h" ""
+A3=_ "F:\项目\cc254x蓝牙-创思通信部分\cc254x蓝牙-创思通信\2.初级实验\7.AD采集cc254x温度串口显示\ADC\main.c" ""
+Count=4
+SuppressDialog=0
